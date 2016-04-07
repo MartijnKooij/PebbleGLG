@@ -1,0 +1,43 @@
+{
+    "appKeys": {
+        "accessKey": 1,
+        "error": 0,
+        "item": 3,
+        "listSize": 4,
+        "requestData": 2
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Martijn Kooij",
+    "enableMultiJS": false,
+    "longName": "Grocery List Generator",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/appicon_24x28.png",
+                "menuIcon": true,
+                "name": "MENU",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Splashscreen_144x168_1.png",
+                "name": "SPLASH",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "GLG",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "8ab3a8e0-39d9-492b-a83d-b574ffae6ad6",
+    "versionLabel": "1.2",
+    "watchapp": {
+        "watchface": false
+    }
+}
